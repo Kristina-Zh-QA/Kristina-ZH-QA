@@ -10,7 +10,7 @@ _______________________________________________
 Инструменты: Postman, Figma, Draw.io, DevTools, Swagger, PairwaseTool, Android Studio, Yougile (Схема - Канбан), Pairwise Tool, Техники тест-дизайна.
 
 _______________________________________________
-My CV:
+Резюме:
 https://hh.ru/resume/81376c4dff1058ee420039ed1f70724e32454d
 
 Контакты 💬
