@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**Kristina-Zh-QA/Kristina-ZH-QA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Всем привет! Я Кристина, QA Enginner 👋
+_______________________________________________
 
-Here are some ideas to get you started:
+Обладаю внимательностью к деталям, критическим мышлением, умением работать, как самостоятельно, так и в команде. Люблю декомпозировать, структурировать и наводить порядок.
+_______________________________________________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Мой стэк технологий ⚙️
+
+Инструменты: Postman, Figma, Draw.io, DevTools, Swagger, PairwaseTool, Android Studio, Yougile (Схема - Канбан), Pairwise Tool, Техники тест-дизайна.
+
+_______________________________________________
+My CV:
+https://hh.ru/resume/81376c4dff1058ee420039ed1f70724e32454d
+
+Контакты 💬
+Почта: morrigan1990@yandex.ru
+ТГ: https://t.me/Sumere4naya_9
+
+Статус занятости: Открыта для новых предложений.
+
+_______________________________________________
+
+Сертификаты и дипломы: 
+
+- Специалист по тестированию в области информационных технологий - Яндекс Практикум
+- Вселенная тестирования или как стать тестировщиком - Stepik
