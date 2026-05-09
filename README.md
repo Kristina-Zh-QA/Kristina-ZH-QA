@@ -13,7 +13,7 @@ _______________________________________________
 
 [Резюме](https://hh.ru/resume/81376c4dff1058ee420039ed1f70724e32454d)
 
-[Портфолио]()
+[Портфолио](https://github.com/Kristina-Zh-QA/Portfolio-QA)
 
 Контакты 💬
 Почта: morrigan1990@yandex.ru
